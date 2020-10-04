@@ -8,7 +8,7 @@ J'ai réalisé ce pojet en Terminal pour le BAC (2016-2017). Il a été entière
 
 ## A quoi ressemble-t-il ?
 
-![Preview](https://github.com/ThomasCorcoral/Gluant_Pop/presentation.png)
+![Preview](https://github.com/ThomasCorcoral/Gluant_Pop/blob/master/presentation.png)
 
 ## Guide d'installation WINDOWS
 
