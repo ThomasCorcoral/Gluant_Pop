@@ -1,34 +1,34 @@
 
 ## GluantPOP
-Il s'agit d'un jeu vidéo que j'ai réalisé pour le bac. Le but de ce jeu était de pouvoir éventuellement un jour l'adapter au format smartphone. En effet, ce dernier se joue sur une interface qui représente plus ou moins la taille d'un téléphone.
+This is a video game that I made for the bac. The goal of this game was to be able to adapt it to smartphone format. Indeed, the latter is played on an interface that more or less represents the size of a phone.
 
-## Comment a-t-il été réalisé ?
+## How was it realized?
 
-J'ai réalisé ce pojet en Terminal pour le BAC (2016-2017). Il a été entièrement réalisé avec Python.
+I completed this project in Terminal for LAC (2016-2017). It was entirely done with Python.
 
-## A quoi ressemble-t-il ?
+## What does he look like?
 
 ![Preview](https://github.com/ThomasCorcoral/Gluant_Pop/blob/master/presentation.png)
 
-## Guide d'installation WINDOWS
+## Installation Guide WINDOWS
 
-#### Etape 1
-Téléchargez le fichier .zip
+#### Step 1
+Download the .zip file
 
-#### Etape 2
-Extraire le dossier dans l'emplacement de votre choix
+#### Step 2
+Extract the folder to the location of your choice
 
-#### Etape 3
-Lancez le .exe
+#### Step 3
+Start the .exe
 
-## Guide d'installation AUTRES
+## Installation Guide OTHER
 
-#### Etape 1
-Téléchargez le projet sans le .zip
+#### Step 1
+Download the project without the . zip
 
-#### Etape 2
-Rendez vous dans le dossier du projet
+#### Step 2
+Go to the project file
 
-#### Etape 3
-Ouvrez le fichier .py avec le logiciel Spyder (Anaconda3)
+#### Step 3
+Open the .py file with Spyder software (Anaconda3)
 
